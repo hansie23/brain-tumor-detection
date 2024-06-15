@@ -11,6 +11,8 @@
 
 This project uses a U-Net model to perform brain tumor segmentation on MRI images. The app is built using Streamlit, allowing users to upload MRI images, process them through the model, and visualize the segmented tumor.
 
+LINK - https://brain--tumor--detection.streamlit.app/
+
 ## Features
 
 - Upload MRI images in `.tif` format.
