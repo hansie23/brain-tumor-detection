@@ -52,13 +52,13 @@ The U-Net model used in this project consists of an encoder-decoder architecture
    - The uploaded MRI image and the segmented tumor image will be displayed side by side.
 
 ## File Structure
-brain-tumor-detection/
-│
-├── app.py # Main Streamlit app script
-├── unet_model.py # U-Net model definition
-├── requirements.txt # Required dependencies
-├── README.md # Project documentation
-└── unet_weights.h5 # Pre-trained U-Net model weights (to be downloaded/placed)
+brain-tumor-detection/  
+│  
+├── app.py # Main Streamlit app script  
+├── unet_model.py # U-Net model definition   
+├── requirements.txt # Required dependencie  
+├── README.md # Project documentation  
+└── unet_weights.h5 # Pre-trained U-Net model weights (to be downloaded/placed)  
 
 ## Contributing
 
