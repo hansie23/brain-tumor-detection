@@ -32,7 +32,7 @@ def predict(image, model):
 
 # Streamlit UI
 def main():
-    st.set_page_config(page_title='Brain Tumor Segmentation App')
+    # st.set_page_config(page_title='Brain Tumor Segmentation App')
     st.title("Brain Tumor Segmentation")
     
     # Define page options
